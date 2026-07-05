@@ -5,6 +5,6 @@ Requisitos Previos
 
 Para poder ejecutar y modificar este proyecto, necesitarás tener instalado en tu computadora:
 
-Python 3.x (Asegúrate de marcar la casilla "Add Python to PATH" durante la instalación).
+- Python 3.x (Asegúrate de marcar la casilla "Add Python to PATH" durante la instalación).
 
-La biblioteca Pygame.
+- La biblioteca Pygame.
